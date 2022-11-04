@@ -1,0 +1,21 @@
+.Divtodo {
+    font-size: 55px;
+    color: black;
+    border: 1px solid red;
+    text-align: center;
+    /* display: flex;
+    justify-content: space-evenly; */
+}
+.mainDiv {
+    justify-content: center;
+    
+    border: 1px solid blue;
+    background-color: rgb(83, 74, 62);
+}
+
+
+
+.circle {
+    border-radius: 50%;
+    border-color: teal;
+}
